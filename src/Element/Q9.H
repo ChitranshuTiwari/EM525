@@ -15,7 +15,7 @@ public:
     {
         std::array<double,9> ret;
 
-        // TODO - Copy implementation from PS03
+        // TODO - Implement phi
 
         return ret;
     }
@@ -24,7 +24,7 @@ public:
     {
         std::array<Set::Vector,9> Dret;
 
-        // TODO - Copy implementation from PS03
+        // TODO - Implement dphi
 
         return Dret;
     }
